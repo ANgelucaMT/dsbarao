@@ -1,0 +1,27 @@
+body{
+    background:#5a1919;
+    margin: 0;
+}
+.topo{
+    background:#5a1919;
+    height: 200px;
+    padding: 30px;
+    color: #5a1919;
+
+}
+.topo ul{
+    display:flex;
+    width:100%;
+    justify-content:space-around;
+}
+.corpo{
+    backfround: rgb(90,25,25);
+    text-align:center;
+    min-height:400px;
+}
+.rodape{
+    background-color: rgb(90,25,25);
+    height:150px;
+    pading:30px;
+    color:#5a1919
+}
